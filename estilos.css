@@ -1,0 +1,33 @@
+body {
+    background-color: #8971d0;
+}
+
+.titulo {
+    color: #7dace4;
+    padding-left: 30%;
+    font-size: 80px;
+    background-color: #95e8d7;
+
+}
+
+#personajesList {
+    width: 20%;
+    margin-left: 39%;
+    background-color: #adf7d1;
+    border: 10px solid #55a48e;
+    border-radius: 20px;
+}
+
+#btn {
+    margin-left: 40%;
+    width:200px;
+    background-color:#95e8d7;
+    color: #8971d0;
+    border-width: 10px;
+    border-color: #7dace4;
+    font-family: 'Calibri', 'Candara', 'Segoe', 'Segoe UI', 'Optima', 'Arial', 'sans-serif';
+    font-size: medium;
+    
+    
+    
+}
